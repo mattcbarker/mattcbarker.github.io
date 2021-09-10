@@ -16,7 +16,7 @@ import skills from "./components/skills.vue";
 import graphics from "./components/graphics.vue";
 import education from "./components/education.vue";
 import tinkerings from "./components/tinkerings.vue";
-import contact from "./components/contact.vue";
+//import contact from "./components/contact.vue";
 
 
 export default {
@@ -27,8 +27,8 @@ export default {
     skills,
     graphics,
     education,
-    tinkerings,
-    contact
+    tinkerings
+    
   },
 }
 </script>
