@@ -6,7 +6,6 @@
     <tinkerings class="box" />
     <graphics class="box" />
     <education class="box" />
-    <contact class="box"/>
   </div>
 </template>
 
